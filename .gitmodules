@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:spyrr/vue-frontend-ex.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:spyrr/express-backend-ex.git
